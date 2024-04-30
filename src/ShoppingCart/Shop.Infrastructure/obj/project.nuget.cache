@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Zd/eWjP8uDdR8a2v5aDZd09XSpBFModhm6mYsk08vzDKIjmByk7P7phtuXpNDlIQ9xi+/1Uq2FfO7skx77y0A==",
+  "success": true,
+  "projectFilePath": "/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/ShoppingCart/Shop.Infrastructure/Shop.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/otabek_coding/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

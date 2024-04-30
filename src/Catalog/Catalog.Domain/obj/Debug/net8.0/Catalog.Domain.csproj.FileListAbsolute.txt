@@ -1,0 +1,12 @@
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/bin/Debug/net8.0/Catalog.Domain.deps.json
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/bin/Debug/net8.0/Catalog.Domain.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/bin/Debug/net8.0/Catalog.Domain.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/Catalog.Domain.csproj.AssemblyReference.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/Catalog.Domain.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/Catalog.Domain.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/Catalog.Domain.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/Catalog.Domain.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/refint/Catalog.Domain.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/Catalog.Domain.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Domain/obj/Debug/net8.0/ref/Catalog.Domain.dll

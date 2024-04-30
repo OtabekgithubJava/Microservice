@@ -1,0 +1,15 @@
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Application.deps.json
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Application.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Application.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Domain.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/bin/Debug/net8.0/Catalog.Domain.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.csproj.AssemblyReference.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog..75771DFE.Up2Date
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/refint/Catalog.Application.dll
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/Catalog.Application.pdb
+/Users/otabek_coding/Desktop/Najot Ta'lim/C# codes/Microservices/E-commerce/src/Catalog/Catalog.Application/obj/Debug/net8.0/ref/Catalog.Application.dll
